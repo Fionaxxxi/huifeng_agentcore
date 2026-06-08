@@ -1,3 +1,4 @@
+```
 huifeng_agentcore/
 │
 ├── .git/                      # Git 版本控制目录
@@ -14,3 +15,4 @@ huifeng_agentcore/
 │
 └── mock/                      # Mock 数据目录
     └── __init__.py            # 标记 mock 为 Python 包
+```
